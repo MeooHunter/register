@@ -1,0 +1,9 @@
+{
+  "subdomain": "TuanMijh",
+  "owner": {
+    "email": "minhboang11@gmail.com"
+  },
+  "records": {
+    "CNAME": "TuanMijh.github.io"
+  }
+}
